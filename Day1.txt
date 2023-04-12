@@ -5,8 +5,14 @@ Git init - We use git init to take my project in my local computer to the versio
 1 - Working space
 
 git add . --> We use this command to send our work to the Staging Area
+
 2 - Staging area
+
+git commit -m"message" --> we send our work to Commit Store
+
 3 - Commit store
+
+git log --oneline --> We see the commits we have done so far
 
 
 
