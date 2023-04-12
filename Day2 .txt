@@ -1,0 +1,22 @@
+*****DAY 2*****
+
+
+Commit Store & HEAD
+
+*There might be more that 1 commit in the repository. The last commit is called HEAD.
+
+
+*We can go back to the previous versions from here.
+
+git restore (file)
+
+
+
+
+
+
+
+
+
+
+
