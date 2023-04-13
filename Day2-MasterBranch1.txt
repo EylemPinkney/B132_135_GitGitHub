@@ -9,7 +9,27 @@ It protects the codes.
 
 Every person becomes responsible of their own area.
 
-It 
+Project develops faster
+
+It reduces the mistakes
+
+Problems are solved faster
+
+A great platform for the collaboration for codes 
+
+It prevents the chaos
+
+
+***Branch commands
+
+git branch [name] -> Creates a new branch
+
+git branch -> Shows the list of the branches
+
+git checkout [name] -> Branch is activated
+
+git merge [name] -> Two branches become one
+
 
 
 
