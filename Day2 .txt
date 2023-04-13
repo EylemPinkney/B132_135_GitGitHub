@@ -34,6 +34,12 @@ git checkout [hash] .       -> Hash degeri verilen versiyona doner
 
 git checkout [hash] . -> explore the previous versions
 
+If I do, git checkout XXXXXXX . ,I'll go to the chosen version. If I want to keep that as a Head, I can do git commit -m"...". This will make the chosen version, the latest, head version. Note: We give a new name/version/message
+
+git reset --hard XXXXXXX(Hashcode) this will take back to the version and delete all the ones after and keep itself as the head 
+
+
+
 
 
 
