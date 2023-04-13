@@ -30,6 +30,12 @@ Working space deki degisiklikleri iptal eder, staging area yi boşaltır
 git checkout [hash] [dosya] -> Dosya, hash ile belirlenen versiyona doner
 git checkout [hash] .       -> Hash degeri verilen versiyona doner
 
+**CHECKOUT
+
+git checkout [hash] . -> explore the previous versions
+
+
+
 
 
 
