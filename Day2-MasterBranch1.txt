@@ -30,7 +30,9 @@ git checkout [name] -> Branch is activated
 
 git merge [name] -> Two branches become one
 
-EYLEM BRANCH deneme
+Nathan BRANCH deneme
+Master Branch deneme
+
 
 
 
