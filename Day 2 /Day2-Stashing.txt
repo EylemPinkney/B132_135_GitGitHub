@@ -1,0 +1,50 @@
+*****Benefits of Branch
+
+
+Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
+
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+
+It protects the codes.
+
+Every person becomes responsible of their own area.
+
+Project develops faster
+
+It reduces the mistakes
+
+Problems are solved faster
+
+A great platform for the collaboration for codes 
+
+It prevents the chaos
+
+
+***Branch commands
+
+git branch [name] -> Creates a new branch
+
+git branch -> Shows the list of the branches
+
+git checkout [name] -> Branch is activated
+
+git merge [name] -> Two branches become one
+
+git branch -m[name] -> Changes the branch name. First you go to the branch you want to change the name, then we give the command above.
+
+git branch -d[isim] -> Deletes the branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
