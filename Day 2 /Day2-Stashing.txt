@@ -10,12 +10,7 @@ git stash list -> views the changes in the temporary memory.
 
 git stash pop -> gets your stashed changes back
 
-<<<<<<< Updated upstream
-=======
 Eylem stashing trial 1..................
-
-
->>>>>>> Stashed changes
 
 
 
