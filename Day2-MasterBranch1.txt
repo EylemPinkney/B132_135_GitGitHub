@@ -30,8 +30,11 @@ git checkout [name] -> Branch is activated
 
 git merge [name] -> Two branches become one
 
-Nathan BRANCH deneme
-Master Branch deneme
+git branch -m[name] -> Changes the branch name. First you go to the branch you want to change the name, then we give the command above.
+
+git branch -d[isim] -> Deletes the branch
+
+
 
 
 
