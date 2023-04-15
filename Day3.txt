@@ -13,8 +13,18 @@ Push - Pull - Clone - gitignore - Conflict
 	step2 = git push -u origin master(Note1: or main what ever my master is called) (Note2: or if I only write "git push" and enter, git will tell me what to write. Copy/paste that one -> enter
 
 After we connected to the GitHub,we only have two commands to use;
+	git commit -am"message"
 	git push ->When we write smth new to our local and we want to push it to GitHub
-	git 
+
+If I want to send it to another Repository;
+
+* I go to the Repository, click on code, copy the https link, come back to the terminal and command; git push (and the link)
+
+
+
+
+
+	
 
 
 	
