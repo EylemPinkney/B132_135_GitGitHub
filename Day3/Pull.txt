@@ -8,6 +8,8 @@ When we want to pull some else's codes to our computer;
 2- Go to your terminal, and inside that folder
 3- git init
 4- git pull (and the https url link of the repository from the GitHub
+The end
+
 
 
 
