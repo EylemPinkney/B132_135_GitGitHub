@@ -1,6 +1,6 @@
 *** Day 3 ***
 
-Push - Pull - Clone - gitignore - Conflict
+Push - PULL - Clone - gitignore - Conflict
 
 When we want to pull some else's codes to our computer;
 
