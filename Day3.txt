@@ -11,6 +11,12 @@ Push - Pull - Clone - gitignore - Conflict
 7- We follow the codes from GitHub list (when we are setting it for the new Repository) On terminal; 
 	step1 = git remote add origin (and the link from the GitHub) -> enter
 	step2 = git push -u origin master(Note1: or main what ever my master is called) (Note2: or if I only write "git push" and enter, git will tell me what to write. Copy/paste that one -> enter
+
+After we connected to the GitHub,we only have two commands to use;
+	git push ->When we write smth new to our local and we want to push it to GitHub
+	git 
+
+
 	
 	
 	
