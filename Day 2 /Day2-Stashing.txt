@@ -11,7 +11,15 @@ git stash list -> views the changes in the temporary memory.
 git stash pop -> gets your stashed changes back
 
 
+git stash is important, because;
 
+We work and commit our work on a branch. After that we write some more consciously/unconsciously. When we come back to our work. When we want to go to the master branch, it doesnt allow us. It says, there are some codes that aren’t committed. We dont remember what they are, but we dont want to commit at that time. We can save them temporarily. Come back and investigate afterwards.
+
+Git stash pop commands brings back the stash. It brings back even we are in master branch. At this point we can either delete this work saved as stash or I can commit it.
+
+At this stage if we use git diff we can see the work saved on stash.
+
+If I use git restore . I can cancel/delete this work. When you check with git status you will see that  nothing is to commit.
 
 
 
