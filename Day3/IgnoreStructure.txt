@@ -1,0 +1,37 @@
+*** Day 3 ***
+
+Push - Pull - Clone - GITIGNORE - Conflict
+
+If there is some information I shouldn't share with other colleagues, I can use the gitignore to hide that information.
+
+I can also use this ignore, for the files I dont want to send to the staging area.
+
+1- In my local, I open a file and name it gitignore for Mac (.gitignore in windows)
+2- The file I want to hide, I take the full name with its extension and put/save that in the ignore file I created
+3- I can add more than files in this area
+4-  
+
+
+
+
+
+
+	
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
